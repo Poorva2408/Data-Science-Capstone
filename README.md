@@ -39,7 +39,7 @@ This project predicts the success of SpaceX Falcon 9 first-stage landings. By an
      
   2. Install dependencies: pip install dash pandas plotly.
      
-  3. Run the application: python spacex_dash_app.py.
+  3. Run the application: python Dash_SPACEX.py.
      
   4. Access via your browser at http://127.0.0.1:8050/.
 
